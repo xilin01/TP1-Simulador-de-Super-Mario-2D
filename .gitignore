@@ -1,0 +1,6 @@
+# Clases compiladas
+bin/
+*.class
+
+# Ficheros generados al ejecutar los tests
+*_output.txt
